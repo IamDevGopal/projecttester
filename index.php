@@ -12,6 +12,7 @@
 <body>
     <h1>Welcome to my first GitHub Project</h1>
     <h1 class="response"></h1>
+    <script src="index.js"></script>
 </body>
 
 </html>
