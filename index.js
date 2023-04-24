@@ -1,0 +1,1 @@
+document.querySelector(".response").innerHTML = "Response from js Page";
